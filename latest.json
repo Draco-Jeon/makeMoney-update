@@ -1,8 +1,8 @@
 {
-  "version": "0.2.6",
-  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.6/makeMoney-setup-v0.2.6-x64.exe",
-  "sha256": "118299dcbc461c0791f1aac29f934bf5efb0d6d82e58ebd6df1b61398f37fe46",
+  "version": "0.2.7",
+  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.7/makeMoney-setup-v0.2.7-x64.exe",
+  "sha256": "db30dbe4ac746ce244e6f80d03ca699f5c084572374044abc195504078a65dfe",
   "channel": "stable",
-  "published_at": "2026-04-09T02:03:39+09:00",
-  "notes": "업데이트 재감지 수정 및 설치 진행 표시 개선"
+  "published_at": "2026-04-09T02:26:48+09:00",
+  "notes": "업데이트 재감지 수정, 설치 진행 표시, 도움말 문서 버튼 추가"
 }
