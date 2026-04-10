@@ -1,8 +1,8 @@
 {
-  "version": "0.2.15",
-  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.15/makeMoney-setup-v0.2.15-x64.exe",
-  "sha256": "40FFCC5FECF90FD678A866209922075F616942EB36241B1BDDB8369D9B282D74",
+  "version": "0.2.16",
+  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.16/makeMoney-setup-v0.2.16-x64.exe",
+  "sha256": "40A7E2BB2261AB1E0368C65CA943145D58188D821290C21A8D9CF6E271B566CC",
   "channel": "stable",
-  "published_at": "2026-04-10T22:20:00+09:00",
-  "notes": "기본 설치 경로를 다시 %LocalAppData%\\\\Programs\\\\makeMoney로 복구하고 updater 예외 처리를 보강"
+  "published_at": "2026-04-10T22:42:00+09:00",
+  "notes": "updater의 installer 실행 인자 quoting을 수정해 업데이트 중 installer가 즉시 종료되던 문제를 해결"
 }
