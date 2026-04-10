@@ -1,8 +1,8 @@
 {
-  "version": "0.2.13",
-  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.13/makeMoney-setup-v0.2.13-x64.exe",
-  "sha256": "348fc7d440d79d017211a83e50b028446aeabc92949cc52a916ca0907f8eac37",
+  "version": "0.2.14",
+  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.14/makeMoney-setup-v0.2.14-x64.exe",
+  "sha256": "e4cfbd6d552730e3edf21b269b79ae06bd955677a2088ff689f82ce93ad03948",
   "channel": "stable",
-  "published_at": "2026-04-10T21:40:57+09:00",
-  "notes": "설치 기본 경로를 C:\\makeMoney로 변경하고 설치 중 경로 변경을 계속 허용"
+  "published_at": "2026-04-10T21:58:59+09:00",
+  "notes": "updater의 stderr 예외를 제거하고 installer 조기 실패 시 1회 재시도를 추가"
 }
