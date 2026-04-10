@@ -1,8 +1,8 @@
 {
-  "version": "0.2.16",
-  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.16/makeMoney-setup-v0.2.16-x64.exe",
-  "sha256": "40A7E2BB2261AB1E0368C65CA943145D58188D821290C21A8D9CF6E271B566CC",
+  "version": "0.2.17",
+  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.17/makeMoney-setup-v0.2.17-x64.exe",
+  "sha256": "5C6B1801DB16CBE748E68DFB74DD99E77C186C8AC716A756213055FF7CC7CB63",
   "channel": "stable",
-  "published_at": "2026-04-10T22:42:00+09:00",
-  "notes": "updater의 installer 실행 인자 quoting을 수정해 업데이트 중 installer가 즉시 종료되던 문제를 해결"
+  "published_at": "2026-04-10T23:01:00+09:00",
+  "notes": "updater installer 실행 실패와 시작 시 permission 메시지 KeyError를 수정"
 }
