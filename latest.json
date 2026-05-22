@@ -1,8 +1,8 @@
 {
-  "version": "0.2.17",
-  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.17/makeMoney-setup-v0.2.17-x64.exe",
-  "sha256": "5C6B1801DB16CBE748E68DFB74DD99E77C186C8AC716A756213055FF7CC7CB63",
+  "version": "0.2.18",
+  "url": "https://github.com/Draco-Jeon/makeMoney-update/releases/download/v0.2.18/makeMoney-setup-v0.2.18-x64.exe",
+  "sha256": "fdc57fd3079d499bdc5dd7d92f1efb0ebb2b4664668419e07bfe98598f429639",
   "channel": "stable",
-  "published_at": "2026-04-10T23:01:00+09:00",
-  "notes": "updater installer 실행 실패와 시작 시 permission 메시지 KeyError를 수정"
+  "published_at": "2026-05-23T02:04:53+09:00",
+  "notes": "nextgen에서 found_index 지원을 제거하고 GUI의 미사용 레거시 워커를 정리"
 }
